@@ -6,4 +6,3 @@ Analyzed the dataset with SQL and helped the store understand its business growt
 * Postgre SQL
 * PgAdmin4
 
-Schema- Music Store Database  
